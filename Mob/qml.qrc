@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>image/sent.png</file>
+        <file>image/noun_862311_cc.png</file>
+        <file>image/sample.avi</file>
+        <file>Lab1.qml</file>
+        <file>image/pause.png</file>
+        <file>image/fly.png</file>
+        <file>image/one.png</file>
+        <file>image/butterfly.png</file>
+        <file>image/play.png</file>
+        <file>image/menu.png</file>
+        <file>image/video.jpg</file>
+        <file>image/stop.png</file>
+        <file>image/foto.png</file>
+    </qresource>
+    <qresource prefix="/./photo"/>
+    <qresource prefix="/./video"/>
+</RCC>
